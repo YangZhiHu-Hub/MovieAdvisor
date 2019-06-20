@@ -104,8 +104,8 @@ void mn()
 
 int main(int arg1, char **arg2)
 {
-	char *mfile = "movie_idmap.txt";
-	char *ufile = "client-preference.txt";
+	char *mfile = "files/movie_idmap.txt";
+	char *ufile = "files/client-preference.txt";
 	int selection = 0;
 	switch(arg1)
 	{
